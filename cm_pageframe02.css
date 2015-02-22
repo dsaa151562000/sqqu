@@ -1,0 +1,38 @@
+
+@charset "utf-8";
+/* ============================================================
+＠＠
+PageFrame Area CSS
+
+【 PageFrame 】
+【 JavaScript 】
+【 Header 】
+【 Main 】
+【 Footer 】
+============================================================ */
+
+/* ------------------------------------------------------------
+【 PageFrame 】
+------------------------------------------------------------ */
+html {
+	background-color: #222222;
+}
+body {
+	background-color: #fff;
+	position: relative;
+	width: 100%;
+	min-width: 980px;
+	overflow: hidden;
+}
+
+#ContetWrap {
+	position: relative;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+
